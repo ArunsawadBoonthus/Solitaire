@@ -117,7 +117,7 @@ public class Solitaire : MonoBehaviour
                 
 
                 yOffset = yOffset + 0.3f;
-                zOffset = zOffset + 0.03f;
+                zOffset = zOffset + 0.3f;
                 discardPile.Add(card);
             }
         }
